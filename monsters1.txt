@@ -1,0 +1,6 @@
+monster LVL:2 ATK:14 DEF:1
+monster LVL:2 ATK:14 DEF:1
+monster LVL:2 ATK:14 DEF:1
+monster LVL:3 ATK:16 DEF:1
+monster LVL:2 ATK:16 DEF:1
+monster LVL:1 ATK:12 DEF:1

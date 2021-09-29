@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Facultate/Anu2_sem1/POO_lab/project_poo/poo_project/main.cpp
+string.h
+-
+iostream
+-
+cstdlib
+-
+ctime
+-
+fstream
+-
+cmath
+-
+Windows.h 
+-
+exception
+-
+stdexcept
+-
+ctype.h
+-
+stdio.h
+-
+vector
+-
+list
+-
+map
+-
+set
+-
+iterator
+-
+string
+-
+

@@ -1,0 +1,1 @@
+monster LVL:2 ATK:14 DEF:1

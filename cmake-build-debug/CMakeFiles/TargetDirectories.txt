@@ -1,0 +1,3 @@
+D:/Facultate/Anu2_sem1/POO_lab/project_poo/poo_project/cmake-build-debug/CMakeFiles/poo_project.dir
+D:/Facultate/Anu2_sem1/POO_lab/project_poo/poo_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/Anu2_sem1/POO_lab/project_poo/poo_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+monster LVL:4 ATK:20 DEF:3
+monster LVL:3 ATK:20 DEF:3
+monster LVL:3 ATK:18 DEF:3
