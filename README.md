@@ -50,3 +50,5 @@ that can be used during monster or boss fights).</p>
 <p> The global monster name can be changed.<p>
 <p> You can also spend exp points in the shop for +1 dmg, +1 def, 1 hp potion. </p>
 <p> You can gamble exp for +1 dmg or +1 def.</p>
+ <br>
+ <b>-reuploaded-</b>
